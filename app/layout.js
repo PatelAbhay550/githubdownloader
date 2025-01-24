@@ -28,10 +28,10 @@ export const metadata = {
     description:
       "Easily download files and folders from GitHub repositories. Enter a GitHub folder URL and download files directly.",
     type: "website",
-    url: "https://githubdownloader.vercel.app/", // Replace with your app's URL
+    url: "https://githubdownloaderfree.vercel.app/", // Replace with your app's URL
     images: [
       {
-        url: "https://githubdownloader.vercel.app/og-image.png", // Replace with your app's OpenGraph image URL
+        url: "https://githubdownloaderfree.vercel.app/og-image.png", // Replace with your app's OpenGraph image URL
         width: 1200,
         height: 630,
         alt: "GitHub Folder Downloader",
